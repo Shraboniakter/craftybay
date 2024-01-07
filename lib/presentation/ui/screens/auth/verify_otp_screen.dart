@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:craftybay/presentation/ui/screens/auth/complete_profile_screen.dart';
 import 'package:craftybay/presentation/ui/utility/app_colors.dart';
 import 'package:craftybay/presentation/ui/widgets/app_logo.dart';
